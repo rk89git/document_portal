@@ -1,1 +1,8 @@
 setuptools
+dotenv
+langchain
+langchain-groq
+langchain-openai
+-e .
+ipykernel
+langchain_google_genai
